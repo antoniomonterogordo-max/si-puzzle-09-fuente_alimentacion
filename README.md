@@ -79,7 +79,7 @@ El **ventilador** (120 mm en nuestro modelo) y los disipadores evacuan el calor,
 
 **Est√°ndares de eficiencia:** **80 PLUS** (Est√°ndar, Bronze, Silver, Gold, Platinum, Titanium) y, en paralelo, **Cybenetics** (con niveles de eficiencia y de ruido).
 
-
+---
 
 ## 5. Un modelo comercial real: Corsair RM750e (2025) y su ficha t√©cnica
 
@@ -106,29 +106,30 @@ Referencia del fabricante: **CP-9020295-EU** (versi√≥n negra). Es una fuente tot
 
 ## 6. Aver√≠as t√≠picas y errores al elegirla o instalarla
 
-Aver°as m†s habituales
+**Aver√≠as t√≠picas**
 
-El equipo no enciende: fusible fundido, condensador primario hinchado, fallo de la fuente auxiliar +5VSB o de la se§al PS_ON. Se puede comprobar con el test del clip (puenteando PS_ON, el cable verde, con un cable negro) para ver si el ventilador arranca; no confirma que las tensiones sean correctas.
-Reinicios o apagados aleatorios: la protecci¢n OCP u OPP salta por sobrecarga, o hay un recalentamiento por polvo acumulado o ventilador bloqueado.
-Pitidos o zumbido elÇctrico (coil whine): bobinas o transformadores vibrando; molesto pero no siempre peligroso.
-Inestabilidad bajo carga: condensadores electrol°ticos envejecidos que pierden capacidad (la gran causa de fallo con los a§os), lo que aumenta el rizado.
-Olor a quemado, humo o chispazos: apagar y desenchufar de inmediato; hay riesgo de incendio o de da§o a otros componentes.
+- **Condensadores hinchados o secos** por el calor y el desgaste; provocan rizado excesivo e inestabilidad.
+- **Ventilador bloqueado o con ruido:** sobrecalentamiento y apagados.
+- **Fusible o varistor quemado:** el equipo "no da se√±al de vida" tras una subida de tensi√≥n.
+- **Reinicios aleatorios o pantallazos azules** con carga alta, por voltajes inestables.
+- **Se apaga al arrancar un juego:** la protecci√≥n OCP/OPP salta por pico de consumo.
 
-Errores al elegirla
+**Errores al elegirla**
 
-Fijarse solo en los vatios. Una fuente barata de 750 W puede ofrecer menos potencia real que una buena de 550 W.
-Subdimensionarla y dejarla funcionando siempre cerca del 100 %: se calienta m†s y envejece antes.
-Sobredimensionarla en exceso (por ejemplo, 1000 W para un equipo de 200 W): a carga muy baja la eficiencia cae.
-Ignorar el est†ndar (ATX 3.x) y los conectores que necesita la gr†fica.
-No comprobar la certificaci¢n ni revisar an†lisis independientes (ripple, protecciones, componentes).
+- **Elegir solo por los vatios** y no por la calidad: una fuente barata de "750 W" puede no dar 750 W reales.
+- **Quedarse justo de potencia:** conviene un margen del 20‚Äì30 % sobre el consumo m√°ximo estimado.
+- **Ignorar la certificaci√≥n** (80 PLUS / Cybenetics) y la calidad de los condensadores.
+- **No comprobar los conectores** que necesita la GPU (8 pines o 12V-2x6).
 
-Errores al instalarla
+**Errores al instalarla**
 
-Usar adaptadores o cables de otro modelo. Aunque los conectores encajen, el pinout puede ser distinto y destruir componentes. Solo deben usarse los cables del propio fabricante y del propio modelo.
-Conectar mal el 12VHPWR: si no entra del todo, aumenta la resistencia de contacto y puede fundirse el conector. Debe insertarse hasta el fondo y sin doblar el cable cerca del enchufe.
-Ventilador mal orientado: debe aspirar aire fresco, no recalentado desde el interior de la caja.
-Colocar regletas o cables que obstruyan la entrada de aire.
-Abrir una fuente conectada o reciÇn desenchufada: los condensadores primarios pueden conservar tensi¢n peligrosa. En clase no se debe abrir nunca.
+- **Usar cables de otra fuente modular:** aunque encajen, la asignaci√≥n de pines puede ser distinta y **da√±ar componentes**.
+- **Conector 12V-2x6 mal insertado o muy doblado** junto al conector: se calienta y puede fundirse.
+- **Olvidar el conector EPS de CPU** (4+4 pines) o dejarlo flojo.
+- **Colocar el ventilador hacia la zona sin ventilaci√≥n** de la caja.
+- **Tocar el interior** de la fuente: tiene condensadores que mantienen carga peligrosa incluso desenchufada.
+
+---
 
 ## 7. Fuentes y uso de IA
 
