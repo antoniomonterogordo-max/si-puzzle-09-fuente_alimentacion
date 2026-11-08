@@ -87,7 +87,7 @@ Referencia del fabricante: CP-9020295-EU (versión negra). Es una fuente totalme
 
 ![Ficha técnica interpretada](img/03-ficha-tecnica.png)
 
-*La ficha la hemos hecho nosotros con los datos de tiendas y distribuidores, no es una foto de la etiqueta real.*
+*La ficha la hemos hecho nosotros junto a gemini con los datos de tiendas y distribuidores, no es una foto de la etiqueta real.*
 
 Qué significan los datos:
 
@@ -141,4 +141,4 @@ Fuentes:
 
 Nota: algunas tiendas ponen 54,2 A en +12 V y otras 62,5 A (750 W). Hemos usado 62,5 A porque coincide con una fuente de 750 W de raíl único.
 
-Uso de IA: hemos usado Claude (Anthropic) para ayudarnos a estructurar el documento y redactar los textos, y para hacer los esquemas (con Python y matplotlib). Los datos del modelo comercial los hemos contrastado con las fichas de los distribuidores, pero habría que revisarlos con la ficha oficial del fabricante antes de entregar.
+Uso de IA: hemos usado Claude (Anthropic) para ayudarnos a estructurar el documento y redactar los textos, y para hacer los esquemas (con Python y matplotlib) y Gemini para creacion de imagenes. Los datos del modelo comercial los hemos contrastado con las fichas de los distribuidores.
