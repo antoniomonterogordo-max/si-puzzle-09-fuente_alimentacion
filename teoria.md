@@ -86,64 +86,48 @@ Cybenetics es otra certificación (eficiencia **y** ruido).
 
 **1. ¿Cuál es la función principal de una fuente de alimentación de PC?**
 - a) Almacenar energía para cortes de luz
-- b) Convertir AC de la red en DC de bajo voltaje para los componentes ✅
+- b) Convertir AC de la red en DC de bajo voltaje para los componentes 
 - c) Aumentar la tensión de la red
 - d) Refrigerar la placa base
-
-*Explicación: rectifica, transforma y estabiliza la corriente que necesitan CPU, placa, GPU y discos.*
 
 **2. ¿Qué raíl suministra la mayor parte de la potencia en una fuente ATX moderna?**
 - a) +3,3 V
 - b) +5 V
-- c) +12 V ✅
+- c) +12 V 
 - d) −12 V
-
-*Explicación: CPU y GPU se alimentan de +12 V, por eso concentra casi toda la potencia.*
 
 **3. ¿Qué función tiene la etapa PFC activa?**
 - a) Refrigerar el transformador
-- b) Mejorar el factor de potencia ✅
+- b) Mejorar el factor de potencia 
 - c) Convertir DC en AC
 - d) Detectar cortocircuitos en la salida
-
-*Explicación: el PFC hace que la corriente de entrada esté en fase con la tensión.*
 
 **4. Una fuente entrega 500 W y consume 556 W de la red. ¿Cuál es su eficiencia aproximada?**
 - a) 80 %
 - b) 85 %
-- c) 90 % ✅
+- c) 90 % 
 - d) 95 %
-
-*Explicación: η = 500 / 556 · 100 ≈ 90 %.*
 
 **5. ¿Qué cable (color) corresponde habitualmente a +5VSB?**
 - a) Amarillo
-- b) Morado ✅
+- b) Morado 
 - c) Azul
 - d) Naranja
-
-*Explicación: +5VSB (standby) es morado; amarillo es +12 V y naranja +3,3 V.*
 
 **6. ¿Qué estándar introdujo el conector 12VHPWR para GPU?**
 - a) ATX 2.0
 - b) ATX12V 2.4
-- c) ATX 3.0 ✅
+- c) ATX 3.0 
 - d) AT
-
-*Explicación: ATX 3.0 (2022) lo introdujo; ATX 3.1 lo sustituyó por el 12V-2x6.*
 
 **7. ¿Cuál es el orden correcto de certificaciones 80 PLUS de menor a mayor eficiencia?**
 - a) Gold, Silver, Bronze, Platinum
-- b) Bronze, Silver, Gold, Platinum ✅
+- b) Bronze, Silver, Gold, Platinum 
 - c) Silver, Bronze, Platinum, Gold
 - d) Platinum, Gold, Silver, Bronze
 
-*Explicación: Estándar < Bronze < Silver < Gold < Platinum < Titanium.*
-
 **8. ¿Qué error es más peligroso al instalar una fuente modular?**
 - a) Dejar un cable sin usar
-- b) Usar cables de otra fuente modular, aunque encajen ✅
+- b) Usar cables de otra fuente modular, aunque encajen 
 - c) Usar menos conectores de los disponibles
 - d) Montarla con el ventilador hacia abajo
-
-*Explicación: la asignación de pines puede variar entre modelos y fabricantes y dañar componentes.*
