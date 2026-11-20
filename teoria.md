@@ -1,4 +1,4 @@
-# Teoría · Pieza NN: Nombre de la pieza
+# Teoría · Pieza 09: Nombre de la pieza
 
 **Grupo:** Marco Ariza · Antonio Montero **
 # Hoja de teoría: Fuente de alimentación (PSU)
